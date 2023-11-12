@@ -1,2 +1,2 @@
-print (saman)
-reomve(saman)
+
+add(sahil)
