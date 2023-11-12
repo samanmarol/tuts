@@ -1,2 +1,2 @@
 print (saman)
-add(saman)
+reomve(saman)
